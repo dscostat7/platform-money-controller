@@ -36,8 +36,7 @@ Developed by <a href="https://beacons.ai/dscostat7/" target="_blank">Diego Souza
 
 
 
-<hr>
----
+<hr><hr>
 
 # platform-money-controller
 ## Using the ReactJS this is project

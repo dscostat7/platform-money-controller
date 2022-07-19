@@ -34,7 +34,10 @@ The project for study ReactJS at the instituition Rocketseat.
 
 Developed by <a href="https://beacons.ai/dscostat7/" target="_blank">Diego Souza</a>
 
-________________________________________________________________________________________________
+
+
+<hr>
+---
 
 # platform-money-controller
 ## Using the ReactJS this is project

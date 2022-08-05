@@ -1,5 +1,5 @@
 <h1 align="center">
-	Money Controller
+	Platform Money Controller
 </h1>
 
 <p align="center">ReactJS</p>

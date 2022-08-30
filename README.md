@@ -5,6 +5,7 @@
 <p align="center">ReactJS</p>
 
 <p align="center">
+  <img alt="License" src="https://img.shields.io/badge/Skills-white">
   <img alt="License" src="https://img.shields.io/badge/ReactJS-blue">
   <img alt="License" src="https://img.shields.io/badge/HTML-orange">
   <img alt="License" src="https://img.shields.io/badge/CSS-blue">
